@@ -1,0 +1,93 @@
+# PetFoodChain - Animal Food Donation Platform
+
+A blockchain-powered platform for animal food donations with NFT rewards and marketplace.
+
+## Features
+
+- Donate food to animals in need
+- Earn unique NFT rewards for donations
+- Explore and trade NFTs in the marketplace
+- Track your impact with blockchain transparency
+- Create and manage donation campaigns
+
+## Tech Stack
+
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Radix UI Components
+- Vercel (Deployment)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+ 
+- npm or pnpm
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ranit004/TechFest.git
+   cd TechFest
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   pnpm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   # or
+   pnpm dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+
+## Deployment on Vercel
+
+This project is configured for seamless deployment on Vercel.
+
+### One-Click Deployment
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Franit004%2FTechFest)
+
+### Manual Deployment Steps
+
+1. Push your code to GitHub (already done)
+
+2. Sign up or log in to [Vercel](https://vercel.com)
+
+3. Click "Add New..." and select "Project"
+
+4. Import your GitHub repository (TechFest)
+
+5. Configure your project:
+   - Framework Preset: Next.js
+   - Build Command: npm run build (default)
+   - Output Directory: .next (default)
+   - Install Command: npm install (default)
+
+6. Click "Deploy"
+
+Vercel will automatically detect your Next.js project settings and deploy your application. Each new commit to the main branch will trigger a new deployment.
+
+## Environment Variables
+
+No environment variables are required for basic functionality. If you add features that require environment variables, add them to your Vercel project settings.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped with the development of this project.
+- Special thanks to the animal shelters and organizations that inspired this platform. 
