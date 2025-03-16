@@ -51,29 +51,6 @@ A blockchain-powered platform for animal food donations with NFT rewards and mar
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
-## Deployment on Vercel
-
-This project is configured for seamless deployment on Vercel.
-
-### One-Click Deployment
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Franit004%2FTechFest)
-
-### Manual Deployment Steps
-
-1. Push your code to GitHub (already done)
-
-2. Sign up or log in to [Vercel](https://vercel.com)
-
-3. Click "Add New..." and select "Project"
-
-4. Import your GitHub repository (TechFest)
-
-5. Configure your project:
-   - Framework Preset: Next.js
-   - Build Command: npm run build (default)
-   - Output Directory: .next (default)
-   - Install Command: npm install (default)
 
 
 
