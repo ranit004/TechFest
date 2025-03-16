@@ -75,9 +75,7 @@ This project is configured for seamless deployment on Vercel.
    - Output Directory: .next (default)
    - Install Command: npm install (default)
 
-6. Click "Deploy"
 
-Vercel will automatically detect your Next.js project settings and deploy your application. Each new commit to the main branch will trigger a new deployment.
 
 ## Environment Variables
 
